@@ -6,7 +6,7 @@
 - 전체 리소스(이미지 등은) 원저작자에게 있습니다.
 - 해당 사이트와 관련하여 문제가 있을시 jwy7254@gmail.com 으로 연락주시면 감사하겠습니다.
 - 원사이트 : [http://www.any-chem.com/]
-- 배포 : [https://clone-anychem-beta.vercel.app/]
+- 배포 : [https://clone-anychem-xi.vercel.app/]
 - 작업기간 : 2024.05.17 ~ 2024.05.31
 
 ## 개선사항
